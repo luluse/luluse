@@ -17,6 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+  <img src="https://img.shields.io/badge/JSON--Web--Tokens-000000?style=flat&logo=json-web-tokens&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-232F3E.svg?style=flat&logo=firebase&logoColor=Ffa611">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> 
   <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
@@ -27,7 +28,6 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Semantic--UI--React-35BDB2?style=flat&logo=semantic-ui-react&logoColor=white">
-  <img src="https://img.shields.io/badge/JSON-Web-Tokens-#000000?style=flat&logo=JSON-Web-Tokens&logoColor=white">
   
   </p>
 
