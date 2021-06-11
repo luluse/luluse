@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Semantic--UI--React-35BDB2?style=flat&logo=semantic-ui-react&logoColor=white">
- 
+  <img src="https://img.shields.io/badge/JSON-Web-Tokens-#000000?style=flat&logo=JSON-Web-Tokens&logoColor=white">
+  
   </p>
 
 
