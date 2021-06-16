@@ -1,3 +1,16 @@
+<h2 align='center'>
+ 👋 Hi there, I'm Lulu
+</h2>
+
+
+<p align='center'>
+  Full Stack JavaScript Developer - React.js - Node.js
+</p>
+
+
+
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white">
   <img src ="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
