@@ -16,6 +16,7 @@
   <img src ="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
@@ -33,10 +34,11 @@
   <img src="https://img.shields.io/badge/JSON--Web--Tokens-000000?style=flat&logo=json-web-tokens&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-ffca28.svg?style=flat&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> 
-  <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+  <img src="http://img.shields.io/badge/Contentful-2478CC?style=flat&logo=contentful&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
